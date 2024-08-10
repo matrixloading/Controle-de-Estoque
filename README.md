@@ -64,5 +64,20 @@ Faça suas alterações e comite-as: git commit -m 'Minha nova feature'.
 Envie para o GitHub: git push origin minha-feature.
 Crie um Pull Request.
 
+## Contributing
+
+Contribuições são bem-vindas! Se você deseja contribuir com este projeto, siga estas diretrizes:
+
+1. Fork este repositório.
+2. Crie uma nova branch para a sua feature (`git checkout -b feature/AmazingFeature`).
+3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`).
+4. Push para a branch (`git push origin feature/AmazingFeature`).
+5. Abra um Pull Request.
+
+Por favor, certifique-se de que suas contribuições sigam os padrões de codificação e que tenham sido bem testadas.
+
+Se encontrar algum problema, por favor, abra uma [issue](https://github.com/seu-usuario/seu-repositorio/issues).
+
+
 Licença
 Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para mais detalhes.
